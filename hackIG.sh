@@ -40,4 +40,5 @@ do
        
     }
 done
+sleep 3
 bash v1.sh
